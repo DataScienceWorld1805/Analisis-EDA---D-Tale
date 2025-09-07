@@ -1,0 +1,1 @@
+El analisis exploratorio esta completo, y en el zip se encuentra el dataset que debe descomprimirse y ponerse en el mismo directorio que el noptebook con el codigo para que pueda correr corrrectamente.-
